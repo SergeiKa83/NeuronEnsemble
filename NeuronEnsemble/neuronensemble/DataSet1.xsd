@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Ensemble" msprop:Generator_TableClassName="EnsembleDataTable" msprop:Generator_TableVarName="tableEnsemble" msprop:Generator_TablePropName="Ensemble" msprop:Generator_RowDeletingName="EnsembleRowDeleting" msprop:Generator_RowChangingName="EnsembleRowChanging" msprop:Generator_RowEvHandlerName="EnsembleRowChangeEventHandler" msprop:Generator_RowDeletedName="EnsembleRowDeleted" msprop:Generator_UserTableName="Ensemble" msprop:Generator_RowChangedName="EnsembleRowChanged" msprop:Generator_RowEvArgName="EnsembleRowChangeEvent" msprop:Generator_RowClassName="EnsembleRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="idNeuron" msprop:Generator_ColumnVarNameInTable="columnidNeuron" msprop:Generator_ColumnPropNameInRow="idNeuron" msprop:Generator_ColumnPropNameInTable="idNeuronColumn" msprop:Generator_UserColumnName="idNeuron" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Neuron" msprop:Generator_TableClassName="NeuronDataTable" msprop:Generator_TableVarName="tableNeuron" msprop:Generator_TablePropName="Neuron" msprop:Generator_RowDeletingName="NeuronRowDeleting" msprop:Generator_RowChangingName="NeuronRowChanging" msprop:Generator_RowEvHandlerName="NeuronRowChangeEventHandler" msprop:Generator_RowDeletedName="NeuronRowDeleted" msprop:Generator_UserTableName="Neuron" msprop:Generator_RowChangedName="NeuronRowChanged" msprop:Generator_RowEvArgName="NeuronRowChangeEvent" msprop:Generator_RowClassName="NeuronRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="Number" msprop:Generator_ColumnVarNameInTable="columnNumber" msprop:Generator_ColumnPropNameInRow="Number" msprop:Generator_ColumnPropNameInTable="NumberColumn" msprop:Generator_UserColumnName="Number" type="xs:int" minOccurs="0" />
+              <xs:element name="treshhold" msprop:Generator_ColumnVarNameInTable="columntreshhold" msprop:Generator_ColumnPropNameInRow="treshhold" msprop:Generator_ColumnPropNameInTable="treshholdColumn" msprop:Generator_UserColumnName="treshhold" type="xs:double" minOccurs="0" />
+              <xs:element name="outValue" msprop:Generator_ColumnVarNameInTable="columnoutValue" msprop:Generator_ColumnPropNameInRow="outValue" msprop:Generator_ColumnPropNameInTable="outValueColumn" msprop:Generator_UserColumnName="outValue" type="xs:int" minOccurs="0" />
+              <xs:element name="Weight" msprop:Generator_TableClassName="WeightDataTable" msprop:Generator_TableVarName="tableWeight" msprop:Generator_TablePropName="Weight" msprop:Generator_RowDeletingName="WeightRowDeleting" msprop:Generator_RowChangingName="WeightRowChanging" msprop:Generator_RowEvHandlerName="WeightRowChangeEventHandler" msprop:Generator_RowDeletedName="WeightRowDeleted" msprop:Generator_UserTableName="Weight" msprop:Generator_RowChangedName="WeightRowChanged" msprop:Generator_RowEvArgName="WeightRowChangeEvent" msprop:Generator_RowClassName="WeightRow" minOccurs="0" maxOccurs="unbounded">
+                <xs:annotation>
+                  <xs:appinfo>
+                    <msdata:Relationship name="Neuron_Weight" msdata:parent="Neuron" msdata:child="Weight" msdata:parentkey="id" msdata:childkey="idNeuronIn" msprop:Generator_UserChildTable="Weight" msprop:Generator_ChildPropName="GetWeightRowsByNeuron_Weight" msprop:Generator_UserRelationName="Neuron_Weight" msprop:Generator_ParentPropName="NeuronRowByNeuron_Weight" msprop:Generator_RelationVarName="relationNeuron_Weight" msprop:Generator_UserParentTable="Neuron" />
+                  </xs:appinfo>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="idNeuronIn" msprop:Generator_ColumnVarNameInTable="columnidNeuronIn" msprop:Generator_ColumnPropNameInRow="idNeuronIn" msprop:Generator_ColumnPropNameInTable="idNeuronInColumn" msprop:Generator_UserColumnName="idNeuronIn" type="xs:int" minOccurs="0" />
+                    <xs:element name="weight" msprop:Generator_ColumnVarNameInTable="columnweight" msprop:Generator_ColumnPropNameInRow="weight" msprop:Generator_ColumnPropNameInTable="weightColumn" msprop:Generator_UserColumnName="weight" type="xs:double" minOccurs="0" />
+                    <xs:element name="idNeuronFrom" msprop:Generator_ColumnVarNameInTable="columnidNeuronFrom" msprop:Generator_ColumnPropNameInRow="idNeuronFrom" msprop:Generator_ColumnPropNameInTable="idNeuronFromColumn" msprop:Generator_UserColumnName="idNeuronFrom" type="xs:int" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Project" msprop:Generator_TableClassName="ProjectDataTable" msprop:Generator_TableVarName="tableProject" msprop:Generator_RowChangedName="ProjectRowChanged" msprop:Generator_TablePropName="Project" msprop:Generator_RowDeletingName="ProjectRowDeleting" msprop:Generator_RowChangingName="ProjectRowChanging" msprop:Generator_RowEvHandlerName="ProjectRowChangeEventHandler" msprop:Generator_RowDeletedName="ProjectRowDeleted" msprop:Generator_RowClassName="ProjectRow" msprop:Generator_UserTableName="Project" msprop:Generator_RowEvArgName="ProjectRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="DateOfCreation" msprop:Generator_ColumnVarNameInTable="columnDateOfCreation" msprop:Generator_ColumnPropNameInRow="DateOfCreation" msprop:Generator_ColumnPropNameInTable="DateOfCreationColumn" msprop:Generator_UserColumnName="DateOfCreation" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DateOfModified" msprop:Generator_ColumnVarNameInTable="columnDateOfModified" msprop:Generator_ColumnPropNameInRow="DateOfModified" msprop:Generator_ColumnPropNameInTable="DateOfModifiedColumn" msprop:Generator_UserColumnName="DateOfModified" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="id" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Neuron" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="Neuron_Weight1" msdata:parent="Neuron" msdata:child="Weight" msdata:parentkey="id" msdata:childkey="idNeuronFrom" msprop:Generator_UserChildTable="Weight" msprop:Generator_ChildPropName="GetWeightRowsByNeuron_Weight1" msprop:Generator_UserRelationName="Neuron_Weight1" msprop:Generator_ParentPropName="NeuronRowByNeuron_Weight1" msprop:Generator_RelationVarName="relationNeuron_Weight1" msprop:Generator_UserParentTable="Neuron" />
+      <msdata:Relationship name="Neuron_Ensemble" msdata:parent="Neuron" msdata:child="Ensemble" msdata:parentkey="id" msdata:childkey="idNeuron" msprop:Generator_UserChildTable="Ensemble" msprop:Generator_ChildPropName="GetEnsembleRows" msprop:Generator_UserRelationName="Neuron_Ensemble" msprop:Generator_ParentPropName="NeuronRow" msprop:Generator_RelationVarName="relationNeuron_Ensemble" msprop:Generator_UserParentTable="Neuron" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

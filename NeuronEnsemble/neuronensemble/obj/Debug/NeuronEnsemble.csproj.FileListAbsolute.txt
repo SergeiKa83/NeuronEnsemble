@@ -1,0 +1,66 @@
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\bin\Debug\NeuronEnsemble.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\bin\Debug\NeuronEnsemble.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\bin\Debug\NeuronEnsemble.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.Form1.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.dll
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Data.dll
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.xml
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Data.xml
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\1\Documents\Visual Studio 2013\Projects\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.MainForm.resources
+C:\Users\1\Dropbox\Interest\Ансамбли ОП\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\bin\Debug\NeuronEnsemble.exe.config
+C:\Users\1\Dropbox\Interest\Ансамбли ОП\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.exe
+C:\Users\1\Dropbox\Interest\Ансамбли ОП\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.pdb
+C:\Users\1\Dropbox\Interest\Ансамбли ОП\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\Interest\Ансамбли ОП\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.Form1.resources
+C:\Users\1\Dropbox\Interest\Ансамбли ОП\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.MainForm.resources
+C:\Users\1\Dropbox\Interest\Ансамбли ОП\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.Properties.Resources.resources
+C:\Users\1\Dropbox\Interest\Ансамбли ОП\NeuronAnsambles\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.csproj.GenerateResource.Cache
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\NeuronEnsemble.exe.config
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.exe
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.csprojResolveAssemblyReference.cache
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.Form1.resources
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.MainForm.resources
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.Properties.Resources.resources
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.csproj.GenerateResource.Cache
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\NeuronEnsemble.exe.config
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.exe
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\NeuronEnsemble.exe
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\NeuronEnsemble.pdb
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Data.dll
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.dll
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.xml
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Data.xml
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\skulivec\Dropbox\Common\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.pdb
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.pdb
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\NeuronEnsemble.exe
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\NeuronEnsemble.pdb
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Data.dll
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.dll
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.xml
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Data.xml
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.csprojResolveAssemblyReference.cache
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.Form1.resources
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.MainForm.resources
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.Properties.Resources.resources
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.csproj.GenerateResource.Cache
+C:\Users\1\Dropbox\Navicon\Common\NeuronEnsemble\NeuronEnsemble\obj\Debug\NeuronEnsemble.forImages.resources
+C:\Users\1\Desktop\NeuronEnsemble\bin\Debug\NeuronEnsemble.exe.config
+C:\Users\1\Desktop\NeuronEnsemble\obj\Debug\NeuronEnsemble.exe
+C:\Users\1\Desktop\NeuronEnsemble\obj\Debug\NeuronEnsemble.pdb
